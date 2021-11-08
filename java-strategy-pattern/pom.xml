@@ -9,7 +9,7 @@
 	<name>Strategy Pattern</name>
 
 	<properties>
-		<mainClass>io.codebyexample.strategypattern.Main</mainClass>
+		<mainClass>io.codebyexample.strategypattern.Client</mainClass>
 
 		<java.version>1.8</java.version>
 		<maven.compiler.target>1.8</maven.compiler.target>
