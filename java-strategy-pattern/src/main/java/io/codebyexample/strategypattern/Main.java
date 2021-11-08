@@ -1,4 +1,4 @@
-package io.codebyexample.helloworld;
+package io.codebyexample.strategypattern;
 
 /**
  * @author huypva

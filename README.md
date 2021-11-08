@@ -8,7 +8,7 @@ The hello-world project
 ## Project structure
 ```
 .
-├── hello-world
+├── java-strategy-pattern
 │   ├── pom.xml
 │   ...
 ├── pom.xml
@@ -19,8 +19,8 @@ The hello-world project
 ## Start project
 
 ```shell
-$ ./mvn clean package
-$ java -jar hello-world/target/hello-world-0.0.1-SNAPSHOT.jar
+$ ./mvnw clean package
+$ java -jar java-strategy-pattern/target/java-strategy-pattern-0.0.1-SNAPSHOT.jar
 ```
 
 ```shell
