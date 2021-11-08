@@ -1,5 +1,3 @@
-The hello-world project
-
 <div align="center">
     <img src="./assets/images/strategy_pattern.png"/>
 </div>
