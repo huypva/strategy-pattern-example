@@ -1,4 +1,4 @@
-package io.codebyexample.strategypattern;
+package io.github.huypva.strategypattern;
 
 /**
  * @author huypva
