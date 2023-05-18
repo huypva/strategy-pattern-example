@@ -35,12 +35,20 @@ $ ./mvnw clean package
 - Run project
 
 ```shell script
-$ java -jar strategy-pattern/target/strategy-pattern-0.0.1-SNAPSHOT.jar
+$ java -jar ./strategy-pattern/target/strategy-pattern-0.0.1-SNAPSHOT.jar
 ConcreteStrategy1: 1
 ConcreteStrategy2: 2
 
 ```
 
 ## Contribute
+The code is open sourced. I encourage fellow developers to contribute and help improve it!
+
+- Fork it
+- Create your feature branch (git checkout -b new-feature)
+- Ensure all tests are passing
+- Commit your changes (git commit -am 'Add some feature')
+- Push to the branch (git push origin my-new-feature)
+- Create new Pull Request
 
 ## Reference
