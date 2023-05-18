@@ -9,9 +9,9 @@
 	<name>Strategy Pattern</name>
 
 	<properties>
-		<java.version>1.8</java.version>
-		<maven.compiler.target>1.8</maven.compiler.target>
-		<maven.compiler.source>1.8</maven.compiler.source>
+		<java.version>17</java.version>
+		<maven.compiler.target>${java.version}</maven.compiler.target>
+		<maven.compiler.source>${java.version}</maven.compiler.source>
 	</properties>
 
 	<dependencies>
@@ -37,7 +37,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>io.github.huypva.strategypattern.Client</mainClass>
+							<mainClass>io.github.huypva.strategypattern.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
